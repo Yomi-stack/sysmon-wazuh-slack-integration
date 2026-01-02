@@ -94,6 +94,7 @@ The most significant takeaway from this lab was the balance between *visibility*
 This lab was completed as part of my ongoing professional development in Security Operations and Threat Hunting.
 
 ## 🔗 Connect with Me
-If you have any questions about this project or want to discuss SOC automation, feel free to reach out!
+If you have any questions about this project, step-by-step guide or want to discuss SOC automation, feel free to reach out or use the link!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayomi-kehinde-428168165/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cybersecyomi)
